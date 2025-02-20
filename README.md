@@ -5,4 +5,6 @@
 
 <h1 align="center"> Sobre </h1>
 
-Projeto do curso Alura
+<h1 align="center"> Curso : Praticando Lógica de Programação : Challenge Amigo Secreto
+ </h1>
+
